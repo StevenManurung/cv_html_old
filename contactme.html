@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <h1>My Contact Details</h1>
+    <p>Jl Sudirman</p>
+    <p>081221213213</p>
+    <p>steven12@gmail.com</p>
+
+    <!-- list dengan tanda huruf -->
+    <!-- <ol type="i">
+      <li>Watch Movie</li>
+      <li>Play Badminton</li>
+      <li>Play Games</li> -->
+
+    <!-- form input text and password
+        action="mailto:.." mengarahkan ke email diikuti name=""
+        agar data yang diisi masuk pada pesan di email
+    -->
+
+    <form action="mailto:steven.mrng43@gmail.com" method="post">
+      <table>
+        <tr>
+          <td><label>Your Name </label></td>
+          <td>
+            <input name="yourName" type="text" />
+          </td>
+        </tr>
+        <tr>
+          <td><label>Your Email </label></td>
+          <td>
+            <input name="yourEmail" type="email" />
+          </td>
+        </tr>
+        <tr>
+          <td><label>Your Message </label></td>
+          <td>
+            <textarea name="yourMessage" id="" cols="30" rows="10"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><input type="submit" /></td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
