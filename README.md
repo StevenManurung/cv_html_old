@@ -1,4 +1,8 @@
-# cv_html_old
-halo2
+CV HTML
 ==
-halo
+Curriculum Vitae 
+--
+*Berikut adalah curriculum vitae.*
+- Angkatan a
+- Angkatan b
+- Angkatan c
