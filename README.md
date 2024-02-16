@@ -6,3 +6,5 @@ Curriculum Vitae
 - Angkatan a
 - Angkatan b
 - Angkatan c
+- Angkatan d
+- Angkatan e
