@@ -11,3 +11,4 @@ Curriculum Vitae
 - Angkatan f
 - Angkatan g
 - Angkatan h
+Ini merupakan pembagian
