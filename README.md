@@ -10,3 +10,4 @@ Curriculum Vitae
 - Angkatan e
 - Angkatan f
 - Angkatan g
+- Angkatan h
