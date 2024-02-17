@@ -8,3 +8,4 @@ Curriculum Vitae
 - Angkatan c
 - Angkatan d
 - Angkatan e
+- Angkatan f
